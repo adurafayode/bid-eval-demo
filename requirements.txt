@@ -7,4 +7,6 @@ matplotlib>=3.9            # bar chart (Streamlit wrapper)
 fpdf2>=2.7.8               # PDF generation for synthetic data (Unicode support)
 JPype1>=1.5.2              # Java bridge for tabula-py
 watchdog                   # For better Streamlit file watching
+opencv-python-headless>=4.5.0  # Required by camelot-py
+ghostscript>=0.7           # Required by camelot-py
 
