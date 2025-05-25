@@ -1,0 +1,11 @@
+line_code,item,spec_value
+P01,Pump standard,Centrifugal pump to conform to API 610
+P02,Installation location,Unsheltered outdoor service
+P03,Sparing philosophy,2×50 % operating + 1 spare (per EDB Table)
+P04,Seal type (default),"Single mechanical seal (dual for butanes, VP>10 psi, sour)"
+P05,Seal flushing,Self‑flush preferred; external FLO only if self‑flush infeasible
+P06,Driver selection,Electric motor drive (steam turbine only for critical)
+P07,Starting frequency (>100 kW),< 1 start per week
+P08,Minimum‑flow bypass (MFB),Automatic if motor > 15 kW; manual if ≤ 15 kW
+P09,Bearing cooling,"Air‑cooled; CW ΔT≤10 °C, ΔP≤0.7 kg/cm²g"
+P10,Auto‑start motor sizing,Motor sized for end‑of‑curve head w/ discharge valve open
