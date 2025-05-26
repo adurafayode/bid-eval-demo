@@ -1,4 +1,2 @@
 ghostscript
-python3-opencv
-tesseract-ocr
-libgl1-mesa-glx 
+openjdk-11-jre-headless 
